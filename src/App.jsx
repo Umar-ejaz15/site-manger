@@ -1,11 +1,7 @@
 import AllRouter from "./components/AllRouter";
 
 function App() {
-  return (
-    <>
-      <AllRouter />
-    </>
-  );
+  return <AllRouter />;
 }
 
 export default App;
